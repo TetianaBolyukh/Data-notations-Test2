@@ -1,0 +1,11 @@
+h1 {
+    margin: auto ;
+}
+
+.team-list {
+    margin: 10px;
+    border: 4px solid;
+    border-radius: 4px;
+    width: 25%;
+    font-weight: bold;
+}
