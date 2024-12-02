@@ -12,6 +12,13 @@ th {
     color: white;
 }
 
+img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid grey;
+    margin: 1cm;
+}
+
 .team-list {
     margin: 10px;
     border: 4px solid;
@@ -19,4 +26,3 @@ th {
     width: 25%;
     font-weight: bold;
 }
-
