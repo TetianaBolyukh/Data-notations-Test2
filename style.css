@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
-    margin: 1cm;
+
+    margin-bottom: 1cm;
 }
 
 td, th {
@@ -17,6 +18,7 @@ img {
     width: 200px;
     border: 2px solid grey;
     margin: 1cm;
+
 }
 
 .team-list {
@@ -25,4 +27,25 @@ img {
     border-radius: 4px;
     width: 25%;
     font-weight: bold;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    background-color: blue;
+}
+
+.form-button {
+    margin: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button {
+    background-color: orange;
+    margin-right: 1cm;
+
 }
