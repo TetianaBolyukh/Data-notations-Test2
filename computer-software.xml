@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<software>
+    <software1 addnotation='good'>
+        <name>Excel</name>
+        <version>3.8</version>
+        <company>Microsoft</company>
+        <date>04-04-1994</date>
+    </software1>
+    <software2 addnotation='ok'>
+        <name>calculator</name>
+        <version>1.1</version>
+        <company>Microsoft</company>
+        <date>05-05-1995</date>
+    </software2>
+    <software3 addnotation='eh'>
+        <name>notepad</name>
+        <version>13</version>
+        <company>Microsoft</company>
+        <date>06-06-1996</date>
+    </software3>
+</software>
