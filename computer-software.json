@@ -1,0 +1,20 @@
+[
+    {
+        "name":"calculator",
+        "users":131315,
+        "simple": true,
+        "version": 3.5
+    },
+    {
+        "name":"excel",
+        "users":2222222,
+        "simple": false,
+        "version": 3.6
+    },
+    {
+        "name":"word",
+        "users":33333333,
+        "simple": true,
+        "version": 3.7
+    }
+]

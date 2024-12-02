@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    margin: 1cm;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
