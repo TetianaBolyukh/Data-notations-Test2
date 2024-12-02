@@ -11,3 +11,12 @@ th {
     background-color: black;
     color: white;
 }
+
+.team-list {
+    margin: 10px;
+    border: 4px solid;
+    border-radius: 4px;
+    width: 25%;
+    font-weight: bold;
+}
+
