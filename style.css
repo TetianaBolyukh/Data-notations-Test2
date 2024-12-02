@@ -49,3 +49,50 @@ button {
     margin-right: 1cm;
 
 }
+
+* {
+    box-sizing: border-box;
+}
+
+.intro {
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+a {
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+.columns {
+    text-align: justify;
+}
+
+@media screen and (max-width: 768px) {
+    p {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    p {
+        text-align: left;
+    }
+}
